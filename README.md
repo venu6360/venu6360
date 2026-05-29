@@ -1,4 +1,3 @@
-```md
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Venugopal+Rao+M;Data+Analyst+📊;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights+🚀" alt="Typing SVG" />
 </h1>
@@ -11,8 +10,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
 </p>
 
----
-
 # 👨‍💻 About Me
 
 🎯 Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.  
@@ -24,8 +21,6 @@
 - 🧠 Always learning new analytics tools and techniques  
 - 🎥 Interested in content creation (YouTube, Medium & Instagram)  
 - ☕ Turning coffee into dashboards and insights  
-
----
 
 # 🛠️ Tech Stack
 
@@ -46,7 +41,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 # 🌐 Connect With Me
 
@@ -70,7 +64,6 @@
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
----
 
 # 📈 GitHub Stats
 
@@ -86,7 +79,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venu6360&layout=compact&theme=tokyonight"/>
 </p>
 
----
 
 # 🏆 GitHub Trophies
 
@@ -94,7 +86,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=venu6360&theme=darkhub&margin-w=15"/>
 </p>
 
----
 
 # 🚀 Let's Connect
 
@@ -104,4 +95,3 @@
 ### ✨ “Data is valuable only when transformed into actionable insights.”
 
 Thanks for visiting my profile ⭐
-```
