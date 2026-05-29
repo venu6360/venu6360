@@ -1,97 +1,111 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Venugopal+Rao+M;Data+Analyst+📊;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights+🚀" alt="Typing SVG" />
-</h1>
+<!-- SECTION G: VISITOR COUNTER -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=venu6360&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venu6360&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<!-- SECTION A: ANIMATED HEADER -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  <h1>Hey there! I'm <strong>Venugopal Rao M</strong></h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Turning+Raw+Data+into+Real+Insights+%F0%9F%9A%80;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Fresher+%7C+Eager+%7C+Always+Learning+%F0%9F%93%88" alt="Typing SVG" />
+  </a>
+</div>
 
-# 👨‍💻 About Me
+<!-- SECTION B: ABOUT ME -->
+## 🧑‍💻 About Me
 
-🎯 Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.  
-📊 Fresher actively building projects in analytics, visualization, and automation.  
-🚀 Focused on improving problem-solving skills through real-world datasets.
+> *Data doesn't lie — and I make sure it speaks clearly.*
 
-### 🌟 A Few Things About Me
-- 📈 Love working with data and dashboards  
-- 🧠 Always learning new analytics tools and techniques  
-- 🎥 Interested in content creation (YouTube, Medium & Instagram)  
-- ☕ Turning coffee into dashboards and insights  
+I'm **Venugopal Rao M**, a passionate **Data Analyst** who loves transforming messy datasets into meaningful stories. As a fresher ready to make my mark, I bring curiosity, dedication, and a sharp analytical mindset to every challenge.
 
-# 🛠️ Tech Stack
+Beyond data, I'm also a content creator — sharing insights and knowledge across platforms:
 
-## 📊 Analytics & Programming
+- 📺 **YouTube** — Tech tutorials & data walkthroughs
+- ✍️ **Medium** — Data articles, tips & analysis breakdowns
+- 📸 **Instagram** — Behind-the-scenes of a data journey
+
+### ⚡ Fun Facts About Me
+
+- 🔍 I can spend hours exploring a dataset and still want more
+- ☕ My best dashboards are built on strong coffee and focus
+- 📊 I believe every chart tells a story — you just need to listen
+- 🎯 I'm on a mission to turn data into decisions that actually matter
+
+<!-- SECTION C: TECH STACK -->
+## 🛠️ Tech Stack
+
+### 🐍 Languages & Data Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 📊 Data Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧪 Libraries & Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📈 Visualization & BI Tools
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-## 🧰 Tools & Platforms
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+### 🔧 Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<!-- SECTION D: SOCIAL MEDIA LINKS -->
+## 🌐 Connect & Follow
 
-# 🌐 Connect With Me
+<div align="center">
 
-<a href="https://www.linkedin.com/in/venugopal-rao-m-505339348/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venugopal-rao-m-505339348/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venu6360.github.io/portfolio/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@venu6360)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@venu6360)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/venu6360)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venu6360)
 
-<a href="https://venu6360.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome">
-</a>
+</div>
 
-<a href="#">
-<img src="https://img.shields.io/badge/YouTube-Coming_Soon-red?style=for-the-badge&logo=youtube">
-</a>
+<!-- SECTION E: GITHUB STATS -->
+## 📈 GitHub Stats
 
-<a href="#">
-<img src="https://img.shields.io/badge/Medium-Coming_Soon-black?style=for-the-badge&logo=medium">
-</a>
+<div align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=venu6360&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venu6360&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
 
+</div>
 
-# 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=venu6360&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=venu6360&show_icons=true&theme=tokyonight"/>
-</p>
+<!-- SECTION F: GITHUB TROPHIES -->
+## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=venu6360&theme=tokyonight"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venu6360&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venu6360&layout=compact&theme=tokyonight"/>
-</p>
+<!-- SECTION H: FOOTER -->
+## 🤝 Let's Connect!
 
+<div align="center">
 
-# 🏆 GitHub Trophies
+I'm always open to collaborating on **data projects**, discussing **analytics insights**, or just having a chat about tech!
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=venu6360&theme=darkhub&margin-w=15"/>
-</p>
+📩 Reach me via [LinkedIn](https://www.linkedin.com/in/venugopal-rao-m-505339348/) or check out my [Portfolio](https://venu6360.github.io/portfolio/)
 
 
-# 🚀 Let's Connect
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
-💼 LinkedIn: https://www.linkedin.com/in/venugopal-rao-m-505339348/  
-🌐 Portfolio: https://venu6360.github.io/portfolio/  
+⭐ **If you find my work useful, don't forget to star my repositories!** ⭐
 
-### ✨ “Data is valuable only when transformed into actionable insights.”
+</div>
 
-Thanks for visiting my profile ⭐
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+</div>
