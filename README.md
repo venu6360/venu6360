@@ -3,6 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=venu6360&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
+
+
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
@@ -12,6 +14,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%F0%9F%93%8A;Turning+Raw+Data+into+Real+Insights+%F0%9F%9A%80;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Fresher+%7C+Eager+%7C+Always+Learning+%F0%9F%93%88" alt="Typing SVG" />
   </a>
 </div>
+
+
 
 <!-- SECTION B: ABOUT ME -->
 ## 🧑‍💻 About Me
@@ -32,6 +36,8 @@ Beyond data, I'm also a content creator — sharing insights and knowledge acros
 - ☕ My best dashboards are built on strong coffee and focus
 - 📊 I believe every chart tells a story — you just need to listen
 - 🎯 I'm on a mission to turn data into decisions that actually matter
+
+
 
 <!-- SECTION C: TECH STACK -->
 ## 🛠️ Tech Stack
@@ -55,6 +61,8 @@ Beyond data, I'm also a content creator — sharing insights and knowledge acros
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+
+
 <!-- SECTION D: SOCIAL MEDIA LINKS -->
 ## 🌐 Connect & Follow
 
@@ -62,12 +70,11 @@ Beyond data, I'm also a content creator — sharing insights and knowledge acros
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venugopal-rao-m-505339348/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venu6360.github.io/portfolio/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@venu6360)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@venu6360)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/venu6360)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venu6360)
 
 </div>
+
+
 
 <!-- SECTION E: GITHUB STATS -->
 ## 📈 GitHub Stats
@@ -83,12 +90,16 @@ Beyond data, I'm also a content creator — sharing insights and knowledge acros
   <img src="https://github-readme-streak-stats.herokuapp.com?user=venu6360&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
+
+
 <!-- SECTION F: GITHUB TROPHIES -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=venu6360&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
+
+
 
 <!-- SECTION H: FOOTER -->
 ## 🤝 Let's Connect!
@@ -100,11 +111,14 @@ I'm always open to collaborating on **data projects**, discussing **analytics in
 📩 Reach me via [LinkedIn](https://www.linkedin.com/in/venugopal-rao-m-505339348/) or check out my [Portfolio](https://venu6360.github.io/portfolio/)
 
 
+
 *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 ⭐ **If you find my work useful, don't forget to star my repositories!** ⭐
 
 </div>
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
