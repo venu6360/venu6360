@@ -24,12 +24,6 @@
 
 I'm **Venugopal Rao M**, a passionate **Data Analyst** who loves transforming messy datasets into meaningful stories. As a fresher ready to make my mark, I bring curiosity, dedication, and a sharp analytical mindset to every challenge.
 
-Beyond data, I'm also a content creator — sharing insights and knowledge across platforms:
-
-- 📺 **YouTube** — Tech tutorials & data walkthroughs
-- ✍️ **Medium** — Data articles, tips & analysis breakdowns
-- 📸 **Instagram** — Behind-the-scenes of a data journey
-
 ### ⚡ Fun Facts About Me
 
 - 🔍 I can spend hours exploring a dataset and still want more
