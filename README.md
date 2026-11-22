@@ -84,17 +84,7 @@ I'm **Venugopal Rao M**, a passionate **Data Analyst** who loves transforming me
 </div>
 
 
-
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venu6360&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-
-
-<!-- SECTION H: FOOTER -->
+<!-- SECTION F: FOOTER -->
 ## 🤝 Let's Connect!
 
 <div align="center">
