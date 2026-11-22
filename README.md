@@ -63,7 +63,7 @@ I'm **Venugopal Rao M**, a passionate **Data Analyst** who loves transforming me
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venugopal-rao-m-505339348/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://venu6360.github.io/portfolio/)
+[![Portfolio]
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venu6360)
 
 </div>
